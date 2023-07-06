@@ -1,4 +1,4 @@
-# Hi there 👋 this is `Swamy The Learner !!`. Welcome ... Let's learn 📚 together  🙋‍♀️🙋‍♂️
+# This is `Swamy The Learner !!` 👋. Welcome, let's learn 📚 together  🙋‍♀️🙋‍♂️
 
 ## 🙋‍♀️ This organization aims to provide a decent learning experience to the students and help them to get the best out of them
 
