@@ -2,7 +2,7 @@
 
 ## Welcome, let's learn 📚 together  🙋‍♀️🙋‍♂️ and grow 🌱 together
 
-## 🙋‍♀️ This organization aims to provide a decent learning experience to the students and help them to get the best out of them
+## 🙋‍♀️ This organization aims to provide a decent learning experience to `the learners` and help them to get the best out of them
 
 ## 👩‍💻 Please refer to the [tech-skillz-academy-main](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/tech-skillz-academy-main) repository for the resources
 
