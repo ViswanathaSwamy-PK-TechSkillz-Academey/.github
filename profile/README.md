@@ -1,4 +1,10 @@
-## Hi there 👋
+# Welcome to ViswanathaSwamy PK TechSkillz Academy
+
+## Hi there 👋 this is `Swamy The Learner !!`
+
+## 🙋‍♀️ This organization aims to provide a decent learning experience to the students and help them to get the best out of them
+
+## 👩‍💻 Useful resources - Please refer to the [tech-skillz-academy-main](https://github.com/ViswanathaSwamy-PK-TechSkillz-Academy/tech-skillz-academy-main) repository for the resources
 
 <!--
 
