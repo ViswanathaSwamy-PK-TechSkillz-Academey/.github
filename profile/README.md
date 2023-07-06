@@ -1,4 +1,4 @@
-# Welcome to ViswanathaSwamy PK TechSkillz Academy
+# Welcome to Viswanatha Swamy P K TechSkillz Academy
 
 ## Hi there 👋 this is `Swamy The Learner !!`
 
