@@ -1,4 +1,4 @@
-# This is Swamy `The Learner` !! 👋
+# This is `Swamy The Learner !!` 👋
 
 ## Welcome, let's learn 📚 together  🙋‍♀️🙋‍♂️ and grow 🌱 together
 
